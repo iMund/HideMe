@@ -1,0 +1,17 @@
+{
+    "required":  true,
+    "package":  "com.tavares.hideme.mixin",
+    "compatibilityLevel":  "JAVA_21",
+    "mixins":  [
+                   "PlayerManagerMixin",
+                   "PlayerListS2CPacketMixin",
+                   "ServerPlayNetworkHandlerMixin",
+                   "ServerCommonNetworkHandlerMixin"
+               ],
+    "injectors":  {
+                      "defaultRequire":  1
+                  },
+    "overwrites":  {
+                       "requireAnnotations":  true
+                   }
+}
