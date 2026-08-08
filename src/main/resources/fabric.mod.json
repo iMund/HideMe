@@ -3,9 +3,9 @@
 	"id": "hide-me",
 	"version": "${version}",
 	"name": "Hide-Me",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"description": "",
 	"authors": [
-		"Me!"
+		"Tavares"
 	],
 	"contact": {
 		"homepage": "https://fabricmc.net/",
